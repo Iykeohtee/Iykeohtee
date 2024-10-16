@@ -12,7 +12,7 @@ JavaScript (ES6+) – Modern, efficient frontend development
 Tailwind CSS / Bootstrap – Custom UI styling
 
 Backend:
-Node.js – Fast, scalable backend development
+Node.js – Fast, scalable backend development.
 Express.js – Building robust APIs
 MongoDB – NoSQL database for high-performance data storage
 Mongoose – Elegant MongoDB object modeling
