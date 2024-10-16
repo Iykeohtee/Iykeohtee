@@ -1,7 +1,7 @@
 - Hi there! 👋 I'm Oti Ikechukwu.
 Fullstack Engineer | MERN Stack Enthusiast
 
-Welcome to my GitHub! I'm a passionate fullstack developer with a focus on building scalable, efficient, and user-friendly applications using the MERN stack.
+Welcome to my GitHub! I'm a passionate full-stack developer who focuses on building scalable, efficient, and user-friendly applications using the MERN stack.
 
 🛠️ Tech Stack & Skills
 Frontend:
@@ -25,7 +25,5 @@ JWT – Secure authentication
 TypeScript – Strongly typed JavaScript for better code quality
 
 Let's connect
-
-
 
 
